@@ -1,0 +1,2 @@
+github "ReactiveX/RxSwift" "6.1.0"
+github "socketio/socket.io-client-swift" ~> 15.2.0

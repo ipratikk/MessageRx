@@ -1,0 +1,35 @@
+{
+  "Mac" : [
+    {
+      "hash" : "a965af37bdc426d2066a5c923db4ae453bc2b9821d6aaa66f058b2cd6cffa63c",
+      "name" : "SocketIO",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "hash" : "7373f7a91794b93f79be4f2b10c970e0d76299ad4020b4550d218c152e8bf8b7",
+      "name" : "SocketIO",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "e1db831408c79612eb1a3154dd80ccfd488227f58566eb2ee56718a05397aebd",
+      "name" : "SocketIO",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+    }
+  ],
+  "commitish" : "v15.2.0",
+  "iOS" : [
+    {
+      "hash" : "28f653a55be8cfb406dbf10852a23539edaf8caa3d76c2d919cba13523d2576a",
+      "name" : "SocketIO",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+    }
+  ]
+}
